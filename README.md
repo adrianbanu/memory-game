@@ -4,4 +4,4 @@
 
 #### Built with: React
 
-### [Live Demo](https://github.com/adrianbanu/memory-game)
+### [Live Demo](https://adrianbanu.github.io/memory-game)
