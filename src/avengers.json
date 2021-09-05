@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"chosen": false,
+		"name": "Iron Man",
+		"image": "images/Iron Man.jpg"
+	},
+	{
+		"id": 2,
+		"chosen": false,
+		"name": "Captain America",
+		"image": "images/Captain America.jpg"		
+	},
+	{
+		"id": 3,
+		"chosen": false,
+		"name": "Thor",
+		"image": "images/Thor.jpg"		
+	},
+	{
+		"id": 4,
+		"chosen": false,
+		"name": "Hulk",
+		"image": "images/Hulk.jpg"		
+	},
+	{
+		"id": 5,
+		"chosen": false,
+		"name": "Black Widow",
+		"image": "images/Black Widow.jpg"		
+	},
+	{
+		"id": 6,
+		"chosen": false,
+		"name": "Hawkeye",
+		"image": "images/Hawkeye.jpg"		
+	},
+	{
+		"id": 7,
+		"chosen": false,
+		"name": "Vision",
+		"image": "images/Vision.jpg"
+	},
+	{
+		"id": 8,
+		"chosen": false,
+		"name": "Spiderman",
+		"image": "images/Spiderman.jpg"		
+	},
+	{
+		"id": 9,
+		"chosen": false,
+		"name": "Doctor Strange",
+		"image": "images/Doctor Strange.jpg"		
+	},
+	{
+		"id": 10,
+		"chosen": false,
+		"name": "Scarlet Witch",
+		"image": "images/Scarlet Witch.jpg"		
+	},
+	{
+		"id": 11,
+		"chosen": false,
+		"name": "Black Panther",
+		"image": "images/Black Panther.jpg"		
+	},
+	{
+		"id": 12,
+		"chosen": false,
+		"name": "Star Lord",
+		"image": "images/Star Lord.jpg"		
+	}
+]
